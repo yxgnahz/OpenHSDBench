@@ -1,4 +1,4 @@
-# HSD-data: Curated Benchmarks for Lithography Hotspot Detection
+# OpenHSDBench: Curated Benchmarks for Lithography Hotspot Detection
 
 This repository contains the **curated** HSD-data benchmarks, designed for training and evaluating computer vision and machine learning models for lithography hotspot detection (HSD).
 
